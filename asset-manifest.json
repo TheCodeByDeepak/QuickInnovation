@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/QuickInnovation/static/css/main.c1204f88.css",
-    "main.js": "/QuickInnovation/static/js/main.54b8ab66.js",
+    "main.css": "/QuickInnovation/static/css/main.4ccee138.css",
+    "main.js": "/QuickInnovation/static/js/main.7c994cde.js",
     "static/js/453.74e31103.chunk.js": "/QuickInnovation/static/js/453.74e31103.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/QuickInnovation/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fa-solid-900.ttf": "/QuickInnovation/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
@@ -17,12 +17,12 @@
     "static/media/fa-v4compatibility.ttf": "/QuickInnovation/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/fa-v4compatibility.woff2": "/QuickInnovation/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/QuickInnovation/index.html",
-    "main.c1204f88.css.map": "/QuickInnovation/static/css/main.c1204f88.css.map",
-    "main.54b8ab66.js.map": "/QuickInnovation/static/js/main.54b8ab66.js.map",
+    "main.4ccee138.css.map": "/QuickInnovation/static/css/main.4ccee138.css.map",
+    "main.7c994cde.js.map": "/QuickInnovation/static/js/main.7c994cde.js.map",
     "453.74e31103.chunk.js.map": "/QuickInnovation/static/js/453.74e31103.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1204f88.css",
-    "static/js/main.54b8ab66.js"
+    "static/css/main.4ccee138.css",
+    "static/js/main.7c994cde.js"
   ]
 }
