@@ -12,7 +12,7 @@ import Terms from "./pages/Terms";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/QuickInnovation">
       <div className="flex">
         {/* Sidebar */}
         <Sidebar />
