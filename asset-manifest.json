@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/QuickInnovation/static/css/main.26ee26f4.css",
+    "main.js": "/QuickInnovation/static/js/main.434ff695.js",
+    "static/js/453.5a40533e.chunk.js": "/QuickInnovation/static/js/453.5a40533e.chunk.js",
+    "static/media/divine-classes.png": "/QuickInnovation/static/media/divine-classes.ab347cde508a920b62e2.png",
+    "static/media/logo.png": "/QuickInnovation/static/media/logo.b4668ca7e59460d22d1f.png",
+    "static/media/spring-hub-india.png": "/QuickInnovation/static/media/spring-hub-india.571ba89efc0e40025d55.png",
+    "index.html": "/QuickInnovation/index.html",
+    "main.26ee26f4.css.map": "/QuickInnovation/static/css/main.26ee26f4.css.map",
+    "main.434ff695.js.map": "/QuickInnovation/static/js/main.434ff695.js.map",
+    "453.5a40533e.chunk.js.map": "/QuickInnovation/static/js/453.5a40533e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26ee26f4.css",
+    "static/js/main.434ff695.js"
+  ]
+}
