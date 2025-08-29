@@ -6,6 +6,7 @@ import {
   FaMapMarkerAlt, 
   FaWhatsapp 
 } from "react-icons/fa";
+import { Link } from "react-router-dom";
 
 import logo from "../assets/logo.png"; 
 import client1 from "../assets/spring-hub-india.png";
@@ -35,7 +36,7 @@ export default function Footer() {
               href="https://github.com/thecodebydeepak"
               target="_blank"
               rel="noopener noreferrer"
-              className="hover:text-blue-400 transition"
+              className="hover:text-gray-300 transition"
             >
               <FaGithub />
             </a>
@@ -43,13 +44,13 @@ export default function Footer() {
               href="https://linkedin.com/in/thecodebydeepak"
               target="_blank"
               rel="noopener noreferrer"
-              className="hover:text-blue-400 transition"
+              className="hover:text-blue-300 transition"
             >
               <FaLinkedin />
             </a>
             <a
               href="mailto:thecodebydeepak@gmail.com"
-              className="hover:text-blue-400 transition"
+              className="hover:text-red-300 transition"
             >
               <FaEnvelope />
             </a>
@@ -59,12 +60,12 @@ export default function Footer() {
         {/* Navigation */}
         <div className="flex flex-col gap-2 text-md items-center md:items-start">
           <h3 className="text-lg font-semibold text-white mb-2">Quick Links</h3>
-          <a href="/" className="hover:text-blue-400 transition">Home</a>
-          <a href="/about" className="hover:text-blue-400 transition">About</a>
-          <a href="/services" className="hover:text-blue-400 transition">Services</a>
-          <a href="/contact" className="hover:text-blue-400 transition">Contact</a>
-          <a href="/privacy" className="hover:text-blue-400 transition">Privacy Policy</a>
-          <a href="/terms" className="hover:text-blue-400 transition">Terms of Service</a>
+          <Link to="/" className="hover:text-blue-300 transition">Home</Link>
+          <Link to="/about" className="hover:text-blue-300 transition">About</Link>
+          <Link to="/services" className="hover:text-blue-300 transition">Services</Link>
+          <Link to="/contact" className="hover:text-blue-300 transition">Contact</Link>
+          <Link to="/privacy" className="hover:text-blue-300 transition">Privacy Policy</Link>
+          <Link to="/terms" className="hover:text-blue-300 transition">Terms of Service</Link>
         </div>
 
         {/* Contact Info */}
@@ -76,7 +77,7 @@ export default function Footer() {
           </div>
           <div className="flex items-center gap-2">
             <FaPhone className="text-blue-400" />
-            <a href="tel:+919359717732" className="hover:text-blue-400 transition">
+            <a href="tel:+919359717732" className="hover:text-blue-300 transition">
               +91 93597 17732
             </a>
           </div>
@@ -86,7 +87,7 @@ export default function Footer() {
               href="https://wa.me/919359717732"
               target="_blank"
               rel="noopener noreferrer"
-              className="hover:text-blue-400 transition"
+              className="hover:text-blue-300 transition"
             >
               Chat on WhatsApp
             </a>
@@ -95,7 +96,7 @@ export default function Footer() {
             <FaEnvelope className="text-blue-400" />
             <a
               href="mailto:thecodebydeepak@gmail.com"
-              className="hover:text-blue-400 transition"
+              className="hover:text-blue-300 transition"
             >
               thecodebydeepak@gmail.com
             </a>

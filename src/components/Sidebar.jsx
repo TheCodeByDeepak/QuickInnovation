@@ -113,7 +113,7 @@ function Sidebar() {
               href="https://github.com/thecodebydeepak"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-white text-2xl hover:text-blue-400 transition-colors"
+              className="text-white text-2xl hover:text-gray-300 transition-colors"
             >
               <FaGithub />
             </a>
@@ -128,7 +128,7 @@ function Sidebar() {
               href="https://linkedin.com/in/thecodebydeepak"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-white text-2xl hover:text-blue-400 transition-colors"
+              className="text-white text-2xl hover:text-blue-300 transition-colors"
             >
               <FaLinkedin />
             </a>
@@ -141,7 +141,7 @@ function Sidebar() {
           <div className="relative group">
             <a
               href="mailto:thecodebydeepak@gmail.com"
-              className="text-white text-2xl hover:text-blue-400 transition-colors"
+              className="text-white text-2xl hover:text-red-300 transition-colors"
             >
               <FaEnvelope />
             </a>

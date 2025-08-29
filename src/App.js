@@ -1,6 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Sidebar from "./components/Sidebar";
 import BackToTop from "./components/BackToTop";
+import ScrollToTop from "./components/ScrollToTop";
 import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import About from "./pages/About";
@@ -16,6 +17,7 @@ function App() {
       <div className="flex">
         {/* Sidebar */}
         <Sidebar />
+        <ScrollToTop />
 
         {/* Main Content */}
         <div className="flex-grow flex flex-col min-h-screen md:ml-64">
